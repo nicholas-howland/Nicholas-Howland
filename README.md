@@ -16,10 +16,7 @@ My areas of interest include playing around with embedded devices, radio technol
 | https://github.com/nicholas-howland/Portfolio-CTF | Some of the scripts and writeups from working in capture the flag competitions |
 | https://github.com/nicholas-howland/team-resources-2026 | Team resources for the NCAE Cyber Games competition 2026 |
 
-
-
 ## Certications
-I have the following certifications which can all be verified here: 
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
