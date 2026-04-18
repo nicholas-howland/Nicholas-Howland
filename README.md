@@ -7,7 +7,7 @@ Certifications: https://www.credly.com/badges/73009422-efa8-4d10-ac53-f3044131a1
 Website: https://exylum.tech/ <br>
 
 ## Whoami?
-An aspiring Penetration Tester with around 4 years of experience in IT, earning a bachelors degree in Cyber Operations, casually hacking around on Hack the Box.
+An aspiring Penetration Tester with around 4 years of experience in IT, earning a bachelors degree in Cyber Operations, casually learning and practicing skills on Hack the Box.
 
 ## Interest areas
 My areas of interest include playing around with embedded devices, radio technologies, and web technologies. I participate in capture the flag competitions and Hack the Box, my profile can be found here: 
