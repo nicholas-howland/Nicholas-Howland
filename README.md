@@ -3,7 +3,7 @@
 ## Profiles
 Hack The Box: https://profile.hackthebox.com/profile/019d9c5d-996e-726e-b602-0e80f9da55e7 <br>
 LinkedIn: https://www.linkedin.com/in/nicholas-howland/<br>
-Certifications: https://www.credly.com/badges/73009422-efa8-4d10-ac53-f3044131a1e0 <br>
+Certifications: https://www.credly.com/users/nicholas-howland.6ae6b68e/badges#credly <br>
 Website: https://exylum.tech/ <br>
 
 ## Whoami?
