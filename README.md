@@ -10,7 +10,7 @@ Website: https://exylum.tech/ <br>
 An aspiring Penetration Tester with around 4 years of experience in IT, earning a bachelors degree in Cyber Operations, casually learning and practicing skills on Hack the Box.
 
 ## Interest areas
-My areas of interest include playing around with embedded devices, radio technologies, and web technologies. I participate in capture the flag competitions and Hack the Box, my profile can be found here: 
+My areas of interest include playing around with embedded devices, radios, and web tech. I participate in capture the flag competitions and Hack the Box, my profile can be found above
 
 ## Projects Of Note
 | Repo link | Description |
