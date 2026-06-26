@@ -5,16 +5,13 @@ Hack The Box: https://profile.hackthebox.com/profile/019d9c5d-996e-726e-b602-0e8
 LinkedIn: https://www.linkedin.com/in/nicholas-howland/<br>
 Certifications: https://www.credly.com/users/nicholas-howland.6ae6b68e/badges#credly <br>
 Website: https://exylum.tech/ <br>
-
-## Interested in Working With Me?
-I am currently accepting projects through upwork and would love to hear from you https://www.upwork.com/freelancers/~016b8040d1550752f0?mp_source=share
+UpWork: https://www.upwork.com/freelancers/~016b8040d1550752f0?mp_source=share
 
 ## Whoami?
 An aspiring Penetration Tester with around 4 years of experience in IT, earning a bachelors degree in Cyber Operations, casually learning and practicing skills on Hack the Box.
 
 ## Interest areas
 External Vulnerabilty Assessments. Playing around with embedded devices, radios, and web tech. I participate in, help develop, and coach for local and regional capture the flag competitions.
-
 
 ## Projects Of Note
 | Repo link | Description |
