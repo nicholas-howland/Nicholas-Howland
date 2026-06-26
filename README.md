@@ -21,6 +21,9 @@ External Vulnerabilty Assessments. Playing around with embedded devices, radios,
 | --- | --- |
 | https://github.com/nicholas-howland/Portfolio-CTF | Some of the scripts and writeups from working in capture the flag competitions |
 | https://github.com/nicholas-howland/team-resources-2026 | Team resources for the NCAE Cyber Games competition 2026 |
+| https://github.com/nicholas-howland/wifi-watch | Smol wifi monitoring project, it just looks for new hosts. Could be helpfull in finding out if your neighbor is stealing your wifi |
+| https://github.com/nicholas-howland/CVE-2026-6992-PoC | I saw there was no PoC repository for CVE-2026-6992 even though proof of concept code existed on the NIST page, so I made one |
+
 
 ## Certications
 - CompTIA A+
