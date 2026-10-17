@@ -7,8 +7,8 @@ Certifications: https://www.credly.com/users/nicholas-howland.6ae6b68e/badges#cr
 Website: https://exylum.tech/ <br>
 UpWork: https://www.upwork.com/freelancers/~016b8040d1550752f0?mp_source=share
 
-##
-**NOTE:** if you do not see a repository that I have mentioned in my resume it is probably because it is being updated as part of a class. 
+## READ
+**NOTE:** _if you do not see a repository that I have mentioned in my resume it is probably because it is being updated as part of a class. _
 
 ## Whoami?
 Vulnerability Analyst, Penetration Tester, and Tinkerer with around 4 years of experience in IT, earning a bachelors degree in Cyber Operations, and actively pursuing new skills on Hack the Box.
