@@ -11,7 +11,7 @@ UpWork: https://www.upwork.com/freelancers/~016b8040d1550752f0?mp_source=share
 **NOTE:** _if you do not see a repository that I have mentioned in my resume it is probably because it is being updated as part of a class._
 
 ## Whoami?
-Tinkerer with around 4 years of experience in IT. Actively pursuing a degree in Cyber Operations and living in a world run by daywalkers.
+Tinkerer with around 4 years of experience in IT. Actively pursuing a degree in Cyber Operations and surviving in a world run by daywalkers.
 
 ## Interest areas
 External Vulnerabilty Assessments. Playing around with embedded devices, radios, and web tech. I participate in, help develop, and coach for local and regional capture the flag competitions.
